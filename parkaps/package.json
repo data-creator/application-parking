@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "jsc-android": "224109.x.x",
     "mobx": "^5.0.3",
     "mobx-react": "^5.2.3",
